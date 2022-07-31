@@ -1,7 +1,12 @@
 # servo-motor
 
+there is a picture of connecting servo with arduino
+and file in tinkercad website
 
-this is the code that move the servo
+every thing done in tinkercad website
+
+
+and this is the code that move the servo
 
 // C++ code
 //
